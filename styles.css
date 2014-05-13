@@ -5,10 +5,14 @@ body, html {
 	font-size: 62.5%;
 }
 
+body {
+	margin: 0;
+}
+
 .container {
 	width: 100%;
 	height: 100%;
-	background: url(https://scontent-a-lax.xx.fbcdn.net/hphotos-ash3/t1.0-9/1545150_10201444502379065_495804103_n.jpg);
+	background: url(https://lh6.googleusercontent.com/-t-qriF8SK-g/U3GC9lHA9eI/AAAAAAAACls/sVZm_o-y9Ko/w840-h560-no/IMG_0888.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	padding: 0;
